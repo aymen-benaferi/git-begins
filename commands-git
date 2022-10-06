@@ -2,4 +2,4 @@ git clone lien-git
 git add nom-fichier
 git commit -m "message a envoyer"
 git push 
- 
+git pull
