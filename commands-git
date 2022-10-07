@@ -5,4 +5,5 @@ git push
 git pull
 Pour créer une branche il faut faire:
 git branch "nom de la branche"
+Commande pour switcher : git switch d'une autres branches 
 
