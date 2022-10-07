@@ -3,3 +3,6 @@ git add nom-fichier
 git commit -m "message a envoyer"
 git push 
 git pull
+Pour créer une branche il faut faire:
+git branch "nom de la branche"
+
